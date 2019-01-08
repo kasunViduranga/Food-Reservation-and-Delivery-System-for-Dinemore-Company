@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane prefHeight="838.0" prefWidth="1334.0" style="-fx-background-color: #a70404;" xmlns="http://javafx.com/javafx/9.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="lk.ijse.student.dinemoreSystem.controller.HomepageController">
+   <children>
+      <ImageView fitHeight="585.0" fitWidth="617.0" layoutX="749.0" layoutY="251.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../assest/44025051_10160918428215394_4746100692152745984_n.jpg" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="295.0" fitWidth="575.0" layoutX="59.0" layoutY="43.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../assest/cropped-dinemoreweblogo.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="504.0" fitWidth="792.0" layoutX="28.0" layoutY="405.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../assest/CollectionGallery-110-large-9bdb2af6799204a299c603994b8e400e4b1fd625efdb74066cc869fee42c9df3.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="232.0" fitWidth="315.0" layoutX="460.0" layoutY="593.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../assest/2004.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="340.0" fitWidth="336.0" layoutX="755.0" layoutY="6.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../assest/hospitality.gif" />
+         </image>
+      </ImageView>
+   </children>
+</AnchorPane>

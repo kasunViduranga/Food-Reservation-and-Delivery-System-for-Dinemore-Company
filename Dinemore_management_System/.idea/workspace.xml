@@ -1,0 +1,866 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cde629bc-9734-4568-80f4-70afa734dc29" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="AddminDashboardController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Client_Side/src/lk/ijse/student/dinemoreSystem/controller/AddminDashboardController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1360">
+              <caret line="101" column="130" selection-start-line="101" selection-start-column="130" selection-end-line="101" selection-end-column="130" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Client_Side/src/lk/ijse/student/dinemoreSystem/main/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="15" column="41" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DBConnection.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Server_Side/src/lk/ijse/student/dinemoreSystem/saver/resourse/DBConnection.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProxyHandler.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Client_Side/src/lk/ijse/student/dinemoreSystem/proxy/ProxyHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="38" column="32" selection-start-line="38" selection-start-column="32" selection-end-line="38" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StartUp.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Server_Side/src/lk/ijse/student/dinemoreSystem/saver/startUp/StartUp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ServiceFactoryImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Server_Side/src/lk/ijse/student/dinemoreSystem/saver/service/factoryImpl/ServiceFactoryImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SuperService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Commen_Side/src/lk/ijse/student/dinemoreSystem/commen/cm_service/SuperService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Homepage.fxml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Client_Side/src/lk/ijse/student/dinemoreSystem/view/Homepage.fxml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="38" selection-start-column="38" selection-end-column="38" />
+            </state>
+          </provider>
+          <provider editor-type-id="JavaFX-Scene-Builder" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>mai</find>
+      <find>btnCl</find>
+      <find>System.out</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Server_Side/src/lk/ijse/student/dinemoreSystem/saver/daoLayer/custom/ReceptionDAO.java" />
+        <option value="$PROJECT_DIR$/Server_Side/src/lk/ijse/student/dinemoreSystem/saver/daoLayer/impl/REceptionDAOImpl.java" />
+        <option value="$PROJECT_DIR$/Server_Side/src/lk/ijse/student/dinemoreSystem/saver/daoLayer/impl/ReceptionDAOImpl.java" />
+        <option value="$PROJECT_DIR$/Server_Side/src/lk/ijse/student/dinemoreSystem/saver/service/cm_impl/ReceptionServiceImpl.java" />
+        <option value="$PROJECT_DIR$/Commen_Side/src/lk/ijse/student/dinemoreSystem/commen/dto/OrderDTO.java" />
+        <option value="$PROJECT_DIR$/Commen_Side/src/lk/ijse/student/dinemoreSystem/commen/cm_custome/CustomerService.java" />
+        <option value="$PROJECT_DIR$/Server_Side/src/lk/ijse/student/dinemoreSystem/saver/service/factoryImpl/ServiceFactoryImpl.java" />
+        <option value="$PROJECT_DIR$/Server_Side/src/lk/ijse/student/dinemoreSystem/saver/business/custom/CustomerBO.java" />
+        <option value="$PROJECT_DIR$/Server_Side/src/lk/ijse/student/dinemoreSystem/saver/service/cm_impl/CustomerSaviceImpl.java" />
+        <option value="$PROJECT_DIR$/Server_Side/src/lk/ijse/student/dinemoreSystem/saver/daoLayer/custom/CustomerDAO.java" />
+        <option value="$PROJECT_DIR$/Server_Side/src/lk/ijse/student/dinemoreSystem/saver/entity/placeOrder.java" />
+        <option value="$PROJECT_DIR$/Server_Side/src/lk/ijse/student/dinemoreSystem/saver/entity/Customer.java" />
+        <option value="$PROJECT_DIR$/Server_Side/src/lk/ijse/student/dinemoreSystem/saver/daoLayer/impl/CustomerDAOImpl.java" />
+        <option value="$PROJECT_DIR$/Commen_Side/src/lk/ijse/student/dinemoreSystem/commen/dto/CommonDTO.java" />
+        <option value="$PROJECT_DIR$/Server_Side/src/lk/ijse/student/dinemoreSystem/saver/entity/PlaceOrder.java" />
+        <option value="$PROJECT_DIR$/Server_Side/src/lk/ijse/student/dinemoreSystem/saver/business/impl/CustomerBOImpl.java" />
+        <option value="$PROJECT_DIR$/Client_Side/src/lk/ijse/student/dinemoreSystem/view/CheffView/ManageOrder.fxml" />
+        <option value="$PROJECT_DIR$/Commen_Side/src/lk/ijse/student/dinemoreSystem/commen/dto/PlaceOrderDTO.java" />
+        <option value="$PROJECT_DIR$/Commen_Side/src/lk/ijse/student/dinemoreSystem/commen/cm_custome/placeOrderService.java" />
+        <option value="$PROJECT_DIR$/Commen_Side/src/lk/ijse/student/dinemoreSystem/commen/cm_custome/ChefService.java" />
+        <option value="$PROJECT_DIR$/Client_Side/src/lk/ijse/student/dinemoreSystem/controller/CheffDashBordController.java" />
+        <option value="$PROJECT_DIR$/Commen_Side/src/lk/ijse/student/dinemoreSystem/commen/dto/OrderDetailsDTO.java" />
+        <option value="$PROJECT_DIR$/Server_Side/src/lk/ijse/student/dinemoreSystem/saver/entity/OrderDetails.java" />
+        <option value="$PROJECT_DIR$/Client_Side/src/lk/ijse/student/dinemoreSystem/controller/ManageChefOrderController.java" />
+        <option value="$PROJECT_DIR$/Client_Side/src/lk/ijse/student/dinemoreSystem/view/DiliverView/CustomerOrderDeliver.fxml" />
+        <option value="$PROJECT_DIR$/Commen_Side/src/lk/ijse/student/dinemoreSystem/commen/cm_custome/PlaceOrderService.java" />
+        <option value="$PROJECT_DIR$/Server_Side/src/lk/ijse/student/dinemoreSystem/saver/business/custom/PlaceOrderBO.java" />
+        <option value="$PROJECT_DIR$/Server_Side/src/lk/ijse/student/dinemoreSystem/saver/daoLayer/custom/PlaceOrderDAO.java" />
+        <option value="$PROJECT_DIR$/Server_Side/src/lk/ijse/student/dinemoreSystem/saver/business/impl/PlaceOrderBOImpl.java" />
+        <option value="$PROJECT_DIR$/Server_Side/src/lk/ijse/student/dinemoreSystem/saver/service/cm_impl/PlaceOrderServiceImpl.java" />
+        <option value="$PROJECT_DIR$/Server_Side/src/lk/ijse/student/dinemoreSystem/saver/daoLayer/impl/PlaceOrderDAOImpl.java" />
+        <option value="$PROJECT_DIR$/Client_Side/src/lk/ijse/student/dinemoreSystem/controller/DeliverDashBoardController.java" />
+        <option value="$PROJECT_DIR$/Commen_Side/src/lk/ijse/student/dinemoreSystem/commen/dto/FoodDTO.java" />
+        <option value="$PROJECT_DIR$/Server_Side/src/lk/ijse/student/dinemoreSystem/saver/entity/Food.java" />
+        <option value="$PROJECT_DIR$/Commen_Side/src/lk/ijse/student/dinemoreSystem/commen/cm_service/ServiceFactory.java" />
+        <option value="$PROJECT_DIR$/Server_Side/src/lk/ijse/student/dinemoreSystem/saver/business/bo/BoFactory.java" />
+        <option value="$PROJECT_DIR$/Server_Side/src/lk/ijse/student/dinemoreSystem/saver/daoLayer/dao/DAOFactory.java" />
+        <option value="$PROJECT_DIR$/Client_Side/src/lk/ijse/student/dinemoreSystem/proxy/ProxyHandler.java" />
+        <option value="$PROJECT_DIR$/Client_Side/src/lk/ijse/student/dinemoreSystem/view/Reception/CustomerOrderForm.fxml" />
+        <option value="$PROJECT_DIR$/Commen_Side/src/lk/ijse/student/dinemoreSystem/commen/cm_custome/FoodService.java" />
+        <option value="$PROJECT_DIR$/Server_Side/src/lk/ijse/student/dinemoreSystem/saver/business/custom/FoodBO.java" />
+        <option value="$PROJECT_DIR$/Server_Side/src/lk/ijse/student/dinemoreSystem/saver/daoLayer/custom/FoodDAO.java" />
+        <option value="$PROJECT_DIR$/Server_Side/src/lk/ijse/student/dinemoreSystem/saver/business/impl/FoodBOImpl.java" />
+        <option value="$PROJECT_DIR$/Server_Side/src/lk/ijse/student/dinemoreSystem/saver/daoLayer/impl/FoodDAOImpl.java" />
+        <option value="$PROJECT_DIR$/Server_Side/src/lk/ijse/student/dinemoreSystem/saver/service/cm_impl/FoodServiceImpl.java" />
+        <option value="$PROJECT_DIR$/Client_Side/src/lk/ijse/student/dinemoreSystem/controller/CustomerOrderDeliverController.java" />
+        <option value="$PROJECT_DIR$/Client_Side/src/lk/ijse/student/dinemoreSystem/controller/CustomerOrderFormController.java" />
+        <option value="$PROJECT_DIR$/Client_Side/src/lk/ijse/student/dinemoreSystem/view/AddminView/ReportPage.fxml" />
+        <option value="$PROJECT_DIR$/Client_Side/src/lk/ijse/student/dinemoreSystem/controller/ManageCheffController.java" />
+        <option value="$PROJECT_DIR$/Client_Side/src/lk/ijse/student/dinemoreSystem/controller/AddminDashboardController.java" />
+        <option value="$PROJECT_DIR$/Client_Side/src/lk/ijse/student/dinemoreSystem/controller/ReportPageController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="285" />
+    <option name="y" value="150" />
+    <option name="width" value="1060" />
+    <option name="height" value="605" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Dinemore_management_System" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Client_Side" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Dinemore_management_System" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Client_Side" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Dinemore_management_System" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Client_Side" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="dinemoreSystem" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Dinemore_management_System" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Client_Side" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="dinemoreSystem" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Dinemore_management_System" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Commen_Side" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Dinemore_management_System" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Server_Side" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../online course registration/onlineCourseManagement" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.JavaFX" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="lk.ijse.student.dinemoreSystem.saver.resourse" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IJSE\intel\Dinemore_management_System\Client_Side\src\lk\ijse\student\dinemoreSystem\report" />
+      <recent name="D:\IJSE\intel\Dinemore_management_System\Client_Side\src\lk\ijse\student\dinemoreSystem\controller\report" />
+      <recent name="D:\IJSE\intel\Dinemore_management_System\Client_Side\src\lk\ijse\student\dinemoreSystem\assest" />
+      <recent name="D:\IJSE\intel\Dinemore_management_System\Client_Side\src\lk\ijse\student\dinemoreSystem\view" />
+      <recent name="D:\IJSE\intel\Dinemore_management_System\Client_Side\src\lk\ijse\student\dinemoreSystem\controller" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lk.ijse.student.dinemoreSystem.main.Main" />
+      <module name="Client_Side" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lk.ijse.student.dinemoreSystem.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="StartUp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lk.ijse.student.dinemoreSystem.saver.startUp.StartUp" />
+      <module name="Server_Side" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lk.ijse.student.dinemoreSystem.saver.startUp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.StartUp" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.StartUp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cde629bc-9734-4568-80f4-70afa734dc29" name="Default" comment="" />
+      <created>1542515297081</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542515297081</updated>
+      <workItem from="1542515300748" duration="25923000" />
+      <workItem from="1542598949971" duration="8587000" />
+      <workItem from="1542609055249" duration="3337000" />
+      <workItem from="1542612415778" duration="9561000" />
+      <workItem from="1542646276775" duration="3236000" />
+      <workItem from="1542684283730" duration="9571000" />
+      <workItem from="1542770710720" duration="1861000" />
+      <workItem from="1542772783555" duration="13006000" />
+      <workItem from="1542859979844" duration="25929000" />
+      <workItem from="1543006602098" duration="6116000" />
+      <workItem from="1543039887114" duration="44624000" />
+      <workItem from="1543126907692" duration="778000" />
+      <workItem from="1544593524159" duration="2663000" />
+      <workItem from="1546753697295" duration="1727000" />
+      <workItem from="1546834759794" duration="465000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="157384000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="right" id="Palette&#9;" order="1" />
+      <window_info id="Image Layers" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info anchor="bottom" id="Database Changes" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="8" weight="0.477208" />
+      <window_info anchor="bottom" id="Terminal" order="2" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="0" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.1" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info id="UI Designer" order="1" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.3988604" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="7" />
+      <window_info anchor="bottom" id="Messages" order="5" weight="0.32905984" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Client_Side/src/lk/ijse/student/dinemoreSystem/view/DiliverView/CustomerOrderDeliver.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
+          <caret line="81" column="62" selection-start-line="81" selection-start-column="62" selection-end-line="81" selection-end-column="62" />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Commen_Side/src/lk/ijse/student/dinemoreSystem/commen/dto/DeliverDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Commen_Side/src/lk/ijse/student/dinemoreSystem/commen/dto/FoodDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Server_Side/src/lk/ijse/student/dinemoreSystem/saver/entity/Deliver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Commen_Side/src/lk/ijse/student/dinemoreSystem/commen/dto/CustomerDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Server_Side/src/lk/ijse/student/dinemoreSystem/saver/entity/Food.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Commen_Side/src/lk/ijse/student/dinemoreSystem/commen/cm_custome/ChefService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="11" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Commen_Side/src/lk/ijse/student/dinemoreSystem/commen/cm_service/ServiceFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Server_Side/src/lk/ijse/student/dinemoreSystem/saver/service/cm_impl/ChefServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Server_Side/src/lk/ijse/student/dinemoreSystem/saver/business/custom/ChefBO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Server_Side/src/lk/ijse/student/dinemoreSystem/saver/business/impl/ChefBOImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Server_Side/src/lk/ijse/student/dinemoreSystem/saver/business/bo/BoFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="541">
+          <caret line="34" column="40" selection-start-line="34" selection-start-column="40" selection-end-line="34" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Server_Side/src/lk/ijse/student/dinemoreSystem/saver/daoLayer/custom/ChefDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="4" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="10" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Server_Side/src/lk/ijse/student/dinemoreSystem/saver/daoLayer/impl/ChefDAOImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Server_Side/src/lk/ijse/student/dinemoreSystem/saver/daoLayer/dao/CrudUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Server_Side/src/lk/ijse/student/dinemoreSystem/saver/daoLayer/dao/CrudDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Server_Side/src/lk/ijse/student/dinemoreSystem/saver/daoLayer/dao/SuperDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Server_Side/src/lk/ijse/student/dinemoreSystem/saver/daoLayer/dao/DAOFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="507">
+          <caret line="33" column="41" selection-start-line="33" selection-start-column="41" selection-end-line="33" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Client_Side/src/lk/ijse/student/dinemoreSystem/controller/ManageReceptionController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Client_Side/src/lk/ijse/student/dinemoreSystem/view/Reception/ReceptionDashBord.fxml">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Commen_Side/src/lk/ijse/student/dinemoreSystem/commen/cm_custome/FoodService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="49" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Server_Side/src/lk/ijse/student/dinemoreSystem/saver/business/custom/FoodBO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="49" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Server_Side/src/lk/ijse/student/dinemoreSystem/saver/daoLayer/custom/FoodDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="53" selection-start-line="14" selection-start-column="53" selection-end-line="14" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Client_Side/src/lk/ijse/student/dinemoreSystem/controller/ManageChefOrderController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1456">
+          <caret line="140" column="19" selection-start-line="140" selection-start-column="19" selection-end-line="140" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Commen_Side/src/lk/ijse/student/dinemoreSystem/commen/dto/OrderDetailsDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="31" lean-forward="true" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Server_Side/src/lk/ijse/student/dinemoreSystem/saver/service/cm_impl/FoodServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="48" column="56" lean-forward="true" selection-start-line="48" selection-start-column="56" selection-end-line="48" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Server_Side/src/lk/ijse/student/dinemoreSystem/saver/business/impl/FoodBOImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="68" column="26" lean-forward="true" selection-start-line="68" selection-start-column="26" selection-end-line="68" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Server_Side/src/lk/ijse/student/dinemoreSystem/saver/daoLayer/impl/FoodDAOImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="56" column="5" lean-forward="true" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/javafx-src.zip!/javafx/beans/value/ChangeListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="541">
+          <caret line="62" column="9" selection-start-line="62" selection-start-column="9" selection-end-line="62" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Client_Side/src/lk/ijse/student/dinemoreSystem/view/AddminView/AddminDashboard.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="71" column="105" selection-start-line="71" selection-start-column="105" selection-end-line="71" selection-end-column="105" />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Client_Side/src/lk/ijse/student/dinemoreSystem/view/Reception/CustomerOrderForm.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="106" column="65" lean-forward="true" selection-start-line="106" selection-start-column="65" selection-end-line="106" selection-end-column="65" />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Client_Side/src/lk/ijse/student/dinemoreSystem/controller/CheffDashBordController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="470">
+          <caret line="77" selection-start-line="77" selection-end-line="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Client_Side/src/lk/ijse/student/dinemoreSystem/controller/CustomerOrderDeliverController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1725">
+          <caret line="132" column="22" selection-start-line="132" selection-start-column="22" selection-end-line="132" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Client_Side/src/lk/ijse/student/dinemoreSystem/controller/DeliverDashBoardController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="643">
+          <caret line="75" column="141" selection-start-line="75" selection-start-column="141" selection-end-line="75" selection-end-column="141" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Client_Side/src/lk/ijse/student/dinemoreSystem/controller/HomepageController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Client_Side/src/lk/ijse/student/dinemoreSystem/controller/LoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Client_Side/src/lk/ijse/student/dinemoreSystem/controller/ManageAddminController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Client_Side/src/lk/ijse/student/dinemoreSystem/controller/ManageCheffController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="93" column="85" selection-start-line="93" selection-start-column="85" selection-end-line="93" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Client_Side/src/lk/ijse/student/dinemoreSystem/view/AddminView/ReportPage.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="25" column="73" selection-start-line="25" selection-start-column="73" selection-end-line="25" selection-end-column="73" />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Client_Side/src/lk/ijse/student/dinemoreSystem/controller/ReportPageController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="13" lean-forward="true" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Commen_Side/src/lk/ijse/student/dinemoreSystem/commen/observer/Observer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Commen_Side/src/lk/ijse/student/dinemoreSystem/commen/observer/Subject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Client_Side/src/lk/ijse/student/dinemoreSystem/controller/CustomerOrderFormController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="201" column="94" selection-start-line="201" selection-start-column="94" selection-end-line="201" selection-end-column="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Server_Side/src/lk/ijse/student/dinemoreSystem/saver/startUp/StartUp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Server_Side/src/lk/ijse/student/dinemoreSystem/saver/service/factoryImpl/ServiceFactoryImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Client_Side/src/lk/ijse/student/dinemoreSystem/controller/AddminDashboardController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1360">
+          <caret line="101" column="130" selection-start-line="101" selection-start-column="130" selection-end-line="101" selection-end-column="130" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Client_Side/src/lk/ijse/student/dinemoreSystem/main/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="15" column="41" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Commen_Side/src/lk/ijse/student/dinemoreSystem/commen/cm_service/SuperService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Client_Side/src/lk/ijse/student/dinemoreSystem/view/Homepage.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="38" selection-start-column="38" selection-end-column="38" />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Client_Side/src/lk/ijse/student/dinemoreSystem/proxy/ProxyHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="38" column="32" selection-start-line="38" selection-start-column="32" selection-end-line="38" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Server_Side/src/lk/ijse/student/dinemoreSystem/saver/resourse/DBConnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Server_Side</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>jfoenix</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Jaspersoft Studio version 6.3.1.final using JasperReports Library version 6.3.1  -->
+<!-- 2018-11-25T03:49:07 -->
+<jasperReport xmlns="http://jasperreports.sourceforge.net/jasperreports" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports http://jasperreports.sourceforge.net/xsd/jasperreport.xsd" name="customers" pageWidth="595" pageHeight="842" columnWidth="555" leftMargin="20" rightMargin="20" topMargin="20" bottomMargin="20" uuid="6b6a819c-7340-42d2-9ffd-47567f0365f3">
+	<property name="com.jaspersoft.studio.data.sql.tables" value=""/>
+	<property name="com.jaspersoft.studio.data.defaultdataadapter" value="dinemore_system"/>
+	<queryString language="SQL">
+		<![CDATA[select *from customer]]>
+	</queryString>
+	<field name="customerID" class="java.lang.String"/>
+	<field name="customer_Name" class="java.lang.String"/>
+	<field name="customerAddress" class="java.lang.String"/>
+	<field name="customerNicNO" class="java.lang.String"/>
+	<field name="customerTell" class="java.lang.Integer"/>
+	<group name="customerID">
+		<groupExpression><![CDATA[$F{customerID}]]></groupExpression>
+	</group>
+	<group name="customer_Name">
+		<groupExpression><![CDATA[$F{customer_Name}]]></groupExpression>
+	</group>
+	<group name="customerAddress">
+		<groupExpression><![CDATA[$F{customerAddress}]]></groupExpression>
+	</group>
+	<group name="customerNicNO">
+		<groupExpression><![CDATA[$F{customerNicNO}]]></groupExpression>
+	</group>
+	<group name="customerTell">
+		<groupExpression><![CDATA[$F{customerTell}]]></groupExpression>
+	</group>
+	<background>
+		<band splitType="Stretch"/>
+	</background>
+	<title>
+		<band height="68" splitType="Stretch">
+			<staticText>
+				<reportElement x="169" y="9" width="224" height="30" forecolor="#E3211E" uuid="7d11c421-51bb-41fc-811b-87a6c2a540f6"/>
+				<textElement textAlignment="Center">
+					<font size="22" isBold="true"/>
+					<paragraph lineSpacing="Single"/>
+				</textElement>
+				<text><![CDATA[Customer Details]]></text>
+			</staticText>
+		</band>
+	</title>
+	<columnHeader>
+		<band height="61" splitType="Stretch">
+			<staticText>
+				<reportElement x="0" y="0" width="111" height="30" forecolor="#1A18C4" uuid="ca80c1c8-5ca9-4703-83f6-367ec7f05467"/>
+				<textElement textAlignment="Center">
+					<font size="12"/>
+				</textElement>
+				<text><![CDATA[customerID]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="111" y="0" width="111" height="30" forecolor="#1A18C4" uuid="3e40313e-b02e-47ce-b4da-0662680f6c5b"/>
+				<textElement textAlignment="Center">
+					<font size="12"/>
+				</textElement>
+				<text><![CDATA[customer_Name]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="222" y="0" width="111" height="30" forecolor="#1A18C4" uuid="11da83ff-c4c2-4461-95da-e6faf113188d"/>
+				<textElement textAlignment="Center">
+					<font size="12"/>
+				</textElement>
+				<text><![CDATA[customerAddress]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="333" y="0" width="111" height="30" forecolor="#1A18C4" uuid="f3327c53-44eb-46f4-bf6c-9d02cbb45c4c"/>
+				<textElement textAlignment="Center">
+					<font size="12"/>
+				</textElement>
+				<text><![CDATA[customerNicNO]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="444" y="0" width="111" height="30" forecolor="#1A18C4" uuid="e981d87f-ab1f-423b-bfec-d485f049a5d1"/>
+				<textElement textAlignment="Center">
+					<font size="12"/>
+				</textElement>
+				<text><![CDATA[customerTell]]></text>
+			</staticText>
+		</band>
+	</columnHeader>
+	<detail>
+		<band height="40" splitType="Stretch">
+			<textField>
+				<reportElement x="0" y="3" width="111" height="30" uuid="1c4ac3c9-a91e-4c9b-b972-ea70fe8189ea"/>
+				<textElement textAlignment="Center">
+					<font size="10"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$F{customerID}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="111" y="3" width="111" height="30" uuid="21827cca-19a5-4399-ad88-5cb053e6ea0b"/>
+				<textElement textAlignment="Center">
+					<font size="10"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$F{customer_Name}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="222" y="3" width="111" height="30" uuid="b4b67e71-a456-40a0-ab1e-c96a6ecbe613"/>
+				<textElement textAlignment="Center">
+					<font size="10"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$F{customerAddress}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="333" y="3" width="111" height="30" uuid="62616e8e-f9cf-42c6-b26c-32f711afe4a1"/>
+				<textElement textAlignment="Center">
+					<font size="10"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$F{customerNicNO}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="444" y="3" width="111" height="30" uuid="02195fa7-af7a-4556-80c0-49029ba01950"/>
+				<textElement textAlignment="Center">
+					<font size="10"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$F{customerTell}]]></textFieldExpression>
+			</textField>
+		</band>
+	</detail>
+</jasperReport>

@@ -1,0 +1,67 @@
+DROP database dineMore_system;
+CREATE database dineMore_system;
+USE dineMore_system;
+
+CREATE TABLE Reception(
+	receptionID VARCHAR(50),
+	receptionF_Name VARCHAR(100),
+	receptionL_Name VARCHAR(100),
+	receptionAddress VARCHAR(100),
+	reception_NicNO VARCHAR(50),
+	receptionTel int,
+	CONSTRAINT PRIMARY KEY(receptionID)
+);
+
+CREATE TABLE Chef(
+	chefID VARCHAR(50),
+	chef_Name VARCHAR(100),
+	chefL_Name VARCHAR(100),
+	chefAddress VARCHAR(100),
+	chef_NicNO VARCHAR(50),
+	chefTel INT,
+	CONSTRAINT PRIMARY KEY(chefID)
+);
+
+CREATE TABLE Deliver(
+	deliver_ID VARCHAR(50),
+	deliverF_Name VARCHAR(100),
+	deliverL_Name VARCHAR(100),
+	deliver_Address VARCHAR(100),
+	deliver_NicNO VARCHAR(100),
+	deliver_Tel INT,
+	CONSTRAINT PRIMARY KEY(deliver_ID)
+);
+
+CREATE TABLE Customer(
+	customerID VARCHAR(50),
+	customer_Name VARCHAR(100),
+	customerAddress VARCHAR(100),
+	customerNicNO VARCHAR(30),
+	customerTell INT,
+	CONSTRAINT PRIMARY KEY(customerID)
+);
+
+CREATE TABLE Food(
+	itemCode VARCHAR(50),
+	itemName VARCHAR(100),
+	itemDescription VARCHAR(100),
+	prise DECIMAL(10,2),
+	CONSTRAINT PRIMARY KEY(itemCode)
+);
+
+CREATE TABLE PlaceOrder(
+	orederID VARCHAR(50),
+	customerID VARCHAR(50),
+	orderDate VARCHAR(100),
+	orderQty INT,
+	unitPrice DECIMAL(50,2),
+	states VARCHAR(50),
+	CONSTRAINT PRIMARY KEY(orederID),
+	CONSTRAINT FOREIGN KEY(customerID) REFERENCES Customer(customerID) ON DELETE CASCADE ON UPDATE CASCADE
+);
+
+CREATE TABLE OrderDetails(	
+	orederID VARCHAR(50),
+	itemName VARCHAR(100),
+	qty int
+);	

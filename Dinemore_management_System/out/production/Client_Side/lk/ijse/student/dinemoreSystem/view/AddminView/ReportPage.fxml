@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+
+<AnchorPane prefHeight="838.0" prefWidth="1334.0" style="-fx-background-color: white;" xmlns="http://javafx.com/javafx/9.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="lk.ijse.student.dinemoreSystem.controller.ReportPageController">
+   <children>
+      <JFXButton layoutX="104.0" layoutY="206.0" onAction="#customerReport" prefHeight="42.0" prefWidth="261.0" style="-fx-background-color: blue;" text="Customer Details Report" textFill="WHITE">
+         <font>
+            <Font name="System Bold" size="19.0" />
+         </font>
+      </JFXButton>
+      <JFXButton layoutX="104.0" layoutY="419.0" prefHeight="42.0" prefWidth="261.0" style="-fx-background-color: blue;" text="Customer Details Report" textFill="WHITE">
+         <font>
+            <Font name="System Bold" size="19.0" />
+         </font>
+      </JFXButton>
+      <JFXButton layoutX="104.0" layoutY="534.0" prefHeight="42.0" prefWidth="261.0" style="-fx-background-color: blue;" text="Customer Details Report" textFill="WHITE">
+         <font>
+            <Font name="System Bold" size="19.0" />
+         </font>
+      </JFXButton>
+      <JFXButton layoutX="104.0" layoutY="305.0" onAction="#foodDetailReport" prefHeight="42.0" prefWidth="261.0" style="-fx-background-color: blue;" text="Food Details Report" textFill="WHITE">
+         <font>
+            <Font name="System Bold" size="19.0" />
+         </font>
+      </JFXButton>
+      <Label alignment="CENTER" layoutX="374.0" layoutY="22.0" prefHeight="51.0" prefWidth="606.0" style="-fx-background-color: #941fac; -fx-background-radius: 23;" text="REPORT FORM" textFill="WHITE">
+         <font>
+            <Font name="System Bold" size="35.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>
